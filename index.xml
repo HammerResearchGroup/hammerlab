@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IDEA Epi Lab</title>
+    <link>/</link>
+    <description>Recent content on IDEA Epi Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/deployability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/deployability/</guid>
+      <description>&lt;p&gt;Coming soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/join/</guid>
+      <description>&lt;h2 id=&#34;interested-in-joining-us&#34;&gt;Interested in Joining Us?&lt;/h2&gt;
+&lt;p&gt;I am always keen to hear from individuals interested in opportunities within the lab. I am particularly interested in hearing from those applying for postdoctoral fellowships, such as Wellcome or UKRI. I am also open to supervising prospective PhD and MPhil students. Current vacancies are listed on the University of Cambridge jobs page. Potential collaborators are welcome to get in touch by email.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/media/</guid>
+      <description>&lt;p&gt;Coming soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publications/</guid>
+      <description>&lt;h2 id=&#34;selected-publications&#34;&gt;Selected publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Quah, Kellerine and Jin, Jingtong and Hammer, Charlotte Christiane. &lt;em&gt;Reporting trends and seasonality in the World Health Organization&amp;rsquo;s Disease Outbreak News (DONs) across 1996&amp;ndash;2023.&lt;/em&gt; PLOS Global Public Health, 6(4), e0004876, 2026.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ng, Wee-Han and Bath, Michael F and Amoako, Joachim and Kohler, Katharina and Baderhabusha, Daniel U and Cáceres, Eder and Nuño-Guzmán, Carlos M and Moonesinghe, Ramani and Hobbs, Laura and Smith, Brandon G and others. &lt;em&gt;Use of pre-operative blood products in abdominal trauma: a planned secondary analysis of the GOAL-trauma study.&lt;/em&gt; Eclinicalmedicine, 93, 2026.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
